@@ -1,0 +1,7 @@
+{
+  "name": "Chatters.ai - AI Social Bridge",
+  "description": "Chatters.ai is an AI-powered social assistant designed for introverts to help generate perfect responses, break the ice, and practice social scenarios with confidence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
